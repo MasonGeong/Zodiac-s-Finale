@@ -17,7 +17,7 @@ May the music remain as a constant, echoing the silent growth of everything anew
 
 ---
 
-## 🎼 Project Files & Source Code
+## 🎼 Project Files & Source Score
 To ensure the digital preservation of this arrangement across all platforms, the following source files are available:
 
 | File Type              | Format                                                          | Access Link                                  |
@@ -37,5 +37,5 @@ To ensure the digital preservation of this arrangement across all platforms, the
 **"Stay infinite."**
 
 ---
-*Created by MasonGeong (Dr. Geong)*  
+*Created by WenteGeong (Dr. Geong)*  
 *Encoded for the 12th House.*

@@ -1,10 +1,10 @@
 # Zodiac's Finale 
-### [ Solar Longitude = 358° ]
+### [Solar Longitude](https://en.wikipedia.org/wiki/Solar_longitude) = 358° ]
 
 ---
 
 ## 🌌 Background
-In the celestial mechanics of the ecliptic, **358°** represents the final stillness before the cycle resets. As the sun nears the **Vernal Equinox (0°)**, the old narrative concludes, and the world prepares for a total rebirth. 
+In the celestial mechanics of the ecliptic, [**358°**](https://kikimoreau.shinyapps.io/SollongCalc/) represents the final stillness before the cycle resets. As the sun nears the **Vernal Equinox (0°)**, the old narrative concludes, and the world prepares for a total rebirth. 
 
 This project, **Zodiac's Finale**, is a sonic observation of this transition—the quiet, reflective bridge between the ultimate completion and the dawn of a new spring.
 

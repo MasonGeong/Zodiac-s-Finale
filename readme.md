@@ -38,4 +38,4 @@ To ensure the digital preservation of this arrangement across all platforms, the
 
 ---
 *Created by WenteGeong (Dr. Geong)*  
-*Encoded for the 12th House.*
+*Encoded for the 12th House (♓︎).*

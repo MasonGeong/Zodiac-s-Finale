@@ -1,5 +1,5 @@
 # Zodiac's Finale 
-### [Solar Longitude](https://en.wikipedia.org/wiki/Solar_longitude) = 358° ]
+### [Solar Longitude](https://en.wikipedia.org/wiki/Solar_longitude) = 358°
 
 ---
 
